@@ -2,7 +2,7 @@
     <div class="p-6 border-l border-gray-200">
         <div class="flex items-center">
             <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">
-                <a href="#">Product</a>
+                <a href="/dashboard/product">Product</a>
             </div>
         </div>
     </div>
@@ -10,7 +10,7 @@
     <div class="p-6 border-gray-200 border-l">
         <div class="flex items-center">
             <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">
-                <a href="#">Transactions</a>
+                <a href="/dashboard/transaction">Transactions</a>
             </div>
         </div>
     </div>
@@ -18,7 +18,7 @@
     <div class="p-6 border-t border-gray-200">
         <div class="flex items-center">
             <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">
-                <a href="#">Users</a>
+                <a href="/dashboard/users">Users</a>
             </div>
         </div>
     </div>
@@ -26,7 +26,7 @@
     <div class="p-6 border-gray-200 border-t">
         <div class="flex items-center">
             <div class="ml-4 text-lg text-gray-600 leading-7 font-semibold">
-                <a href="#">Profile</a>
+                <a href="/user/profile">Profile</a>
             </div>
         </div>
     </div>
